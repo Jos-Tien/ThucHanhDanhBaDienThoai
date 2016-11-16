@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThucHanhDanhBaDienThoai</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_name">Input name</string>
+    <string name="input_number">Input number phone</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add">add</string>
+</resources>
